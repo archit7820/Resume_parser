@@ -1,0 +1,9 @@
+Flask
+pdfminer.six
+python-docx
+openai
+numpy
+pandas
+joblib
+pytest
+gunicorn
